@@ -50,7 +50,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_marginBottom="-46dp"
-        android:background="@android:color/black"
+        android:background="@color/incall_call_banner_background"
         android:visibility="gone"
 
         prvandroid:targetDrawables="@array/incoming_call_widget_3way_targets"
